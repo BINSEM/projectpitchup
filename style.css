@@ -1,0 +1,120 @@
+body {
+	margin-top: 100px;
+	background-image: url(http://g.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2014/01/3025314-poster-p-1-can-creativity-be-taught-73-of-creative-people-say-yes.jpg);
+}
+
+
+.container {
+
+}
+
+
+header{
+	background:rgba(0,0,0,0.7);
+	position: fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height: 70px;
+}
+
+
+header h1{
+	display: inline-block;
+	margin-left: 50px;
+	font-size: 50px;
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Open Sans Condensed';
+}
+
+
+header nav {
+	float: right;
+	padding-top: 1%;
+	margin-right: 0.7%;
+
+}
+
+header li{
+	display: inline-block;
+}
+#section1 {
+	background: rgba(0, 0, 0, 0.75);
+	width: 800px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+}
+#section1 h3 {
+	font-size: 50px;
+}
+#section1 a {
+	font-size: 20px;
+}
+#section1 div {
+	font-size: 30px;
+	margin-top: 15px;
+}
+#section2 {
+	background: rgba(0, 0, 0, 0.75);
+	width: 300px;
+	height: 200px;
+	margin-right: auto;
+	border-radius: 10px;
+	color: white;
+	float: left;
+	margin: 5px;
+}
+#section3 {
+	background: rgba(0, 0, 0, 0.75);
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	float: left;
+	margin: 5px;
+}
+#section4 {
+	background: rgba(0, 0, 0, 0.75);
+	width: 300px;
+	height: 200px;
+	border-radius: 10px;
+	float: left;
+	margin: 5px;
+}
+.divcollecte {
+	width: 940px;
+	margin-top: 50px;
+	display: inline-block;
+	margin-left: 300px;
+    margin-right: 100px;
+}
+footer {
+	background-color: grey;
+	color:white;
+	font-family: 'Open Sans Condensed';
+	text-align: center;
+	font-size: 18px;
+	background: rgba(0,0,0,0.7);
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+
+
+}
+
+ul li {
+	list-style-type: none;
+	display: inline;
+	padding: 30px;
+
+}
+footer a {
+	color: white;
+}
+
+
